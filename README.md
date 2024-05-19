@@ -137,6 +137,8 @@ Any change we make on the tasks directly updated on the database.
 - Spring --> ```http://localhost:4444```
 - React Js --> ```http://localhost:3000```
 
+# Special Thanks to [HAMIT MIZRAK](https://github.com/hamitmizrak) and [Techcareer](www.techcareer.net)!
+
 
 
 
